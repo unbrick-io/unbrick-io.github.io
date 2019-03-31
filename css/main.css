@@ -1,0 +1,53 @@
+body {
+    background: #fafafa;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    color: #333;
+}
+
+.modal {
+    width: 70%;
+    left: 15%;
+    margin-left: 0px;
+}
+
+.hero-unit {
+    margin: 50px auto 0 auto;
+    width: 300px;
+    font-size: 18px;
+    font-weight: 200;
+    line-height: 30px;
+    background-color: #eee;
+    border-radius: 6px;
+    padding: 60px;
+}
+
+.hero-unit h1 {
+    font-size: 60px;
+    line-height: 1;
+    letter-spacing: -1px;
+}
+
+.navbar {
+   background: white!important;
+}
+
+
+.navbar-inner {
+   background: transparent!important;
+}
+
+.navbar .nav {
+   margin-left: 50px;
+   margin-top: 30px;
+}
+
+.navbar .nav a {
+   background: none!important;
+   -webkit-box-shadow: none!important;
+   box-shadow: none!important;
+}
+
+.navbar .nav>li.active {
+    border-bottom: 1px solid #aaa;
+}
+
